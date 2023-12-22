@@ -1,3 +1,0 @@
-hello this is a git status test
-let's try to commit here
-let's try to push some code without looking at the webpage
