@@ -1,7 +1,10 @@
 ul {
- 
+    list-style-type: none;
+    display: flex;
+    
 }
 
 li {
-    list-style-type: none;
+ background-color: aqua;
+ border: 10px black;
 }
